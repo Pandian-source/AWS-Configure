@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36716" started-at="2021-05-16T15:56:13 IST" finished-at="2021-05-16T15:56:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36716" started-at="2021-05-16T15:56:13 IST" finished-at="2021-05-16T15:56:49 IST">
+      <class name="B2BApplication.Loginandsearch">
+        <test-method status="PASS" signature="browser()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="browser" is-config="true" duration-ms="1509" started-at="2021-05-16T15:56:11 IST" finished-at="2021-05-16T15:56:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="Openbrowser" duration-ms="16016" started-at="2021-05-16T15:56:13 IST" finished-at="2021-05-16T15:56:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openbrowser -->
+        <test-method status="PASS" signature="Usenameandpassword()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="Usenameandpassword" duration-ms="349" started-at="2021-05-16T15:56:29 IST" finished-at="2021-05-16T15:56:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Usenameandpassword -->
+        <test-method status="PASS" signature="loginbutton()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="loginbutton" duration-ms="150" started-at="2021-05-16T15:56:29 IST" finished-at="2021-05-16T15:56:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginbutton -->
+        <test-method status="PASS" signature="settings()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="settings" duration-ms="20176" started-at="2021-05-16T15:56:29 IST" finished-at="2021-05-16T15:56:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settings -->
+        <test-method status="PASS" signature="close()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="close" is-config="true" duration-ms="34" started-at="2021-05-16T15:56:49 IST" finished-at="2021-05-16T15:56:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- B2BApplication.Loginandsearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
