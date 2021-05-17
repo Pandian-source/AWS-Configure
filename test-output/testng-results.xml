@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="36716" started-at="2021-05-16T15:56:13 IST" finished-at="2021-05-16T15:56:49 IST">
+  <suite name="Default suite" duration-ms="139788" started-at="2021-05-17T14:46:28 IST" finished-at="2021-05-17T14:48:48 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="36716" started-at="2021-05-16T15:56:13 IST" finished-at="2021-05-16T15:56:49 IST">
+    <test name="Default test" duration-ms="139788" started-at="2021-05-17T14:46:28 IST" finished-at="2021-05-17T14:48:48 IST">
       <class name="B2BApplication.Loginandsearch">
-        <test-method status="PASS" signature="browser()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="browser" is-config="true" duration-ms="1509" started-at="2021-05-16T15:56:11 IST" finished-at="2021-05-16T15:56:13 IST">
+        <test-method status="PASS" signature="browser()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="browser" is-config="true" duration-ms="1785" started-at="2021-05-17T14:46:26 IST" finished-at="2021-05-17T14:46:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser -->
-        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="Openbrowser" duration-ms="16016" started-at="2021-05-16T15:56:13 IST" finished-at="2021-05-16T15:56:29 IST">
+        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="Openbrowser" duration-ms="123388" started-at="2021-05-17T14:46:28 IST" finished-at="2021-05-17T14:48:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Openbrowser -->
-        <test-method status="PASS" signature="Usenameandpassword()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="Usenameandpassword" duration-ms="349" started-at="2021-05-16T15:56:29 IST" finished-at="2021-05-16T15:56:29 IST">
+        <test-method status="PASS" signature="Usenameandpassword()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="Usenameandpassword" duration-ms="615" started-at="2021-05-17T14:48:31 IST" finished-at="2021-05-17T14:48:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Usenameandpassword -->
-        <test-method status="PASS" signature="loginbutton()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="loginbutton" duration-ms="150" started-at="2021-05-16T15:56:29 IST" finished-at="2021-05-16T15:56:29 IST">
+        <test-method status="PASS" signature="loginbutton()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="loginbutton" duration-ms="218" started-at="2021-05-17T14:48:32 IST" finished-at="2021-05-17T14:48:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginbutton -->
-        <test-method status="PASS" signature="settings()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="settings" duration-ms="20176" started-at="2021-05-16T15:56:29 IST" finished-at="2021-05-16T15:56:49 IST">
+        <test-method status="PASS" signature="settings()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="settings" duration-ms="15508" started-at="2021-05-17T14:48:32 IST" finished-at="2021-05-17T14:48:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- settings -->
-        <test-method status="PASS" signature="close()[pri:0, instance:B2BApplication.Loginandsearch@10bbd20a]" name="close" is-config="true" duration-ms="34" started-at="2021-05-16T15:56:49 IST" finished-at="2021-05-16T15:56:49 IST">
+        <test-method status="PASS" signature="close()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="close" is-config="true" duration-ms="90" started-at="2021-05-17T14:48:48 IST" finished-at="2021-05-17T14:48:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
