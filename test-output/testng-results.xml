@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="139788" started-at="2021-05-17T14:46:28 IST" finished-at="2021-05-17T14:48:48 IST">
+  <suite name="Default suite" duration-ms="178664" started-at="2021-05-17T15:18:45 IST" finished-at="2021-05-17T15:21:44 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="139788" started-at="2021-05-17T14:46:28 IST" finished-at="2021-05-17T14:48:48 IST">
+    <test name="Default test" duration-ms="178664" started-at="2021-05-17T15:18:45 IST" finished-at="2021-05-17T15:21:44 IST">
       <class name="B2BApplication.Loginandsearch">
-        <test-method status="PASS" signature="browser()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="browser" is-config="true" duration-ms="1785" started-at="2021-05-17T14:46:26 IST" finished-at="2021-05-17T14:46:28 IST">
+        <test-method status="PASS" signature="browser()[pri:0, instance:B2BApplication.Loginandsearch@15d0c81b]" name="browser" is-config="true" duration-ms="1670" started-at="2021-05-17T15:18:43 IST" finished-at="2021-05-17T15:18:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser -->
-        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="Openbrowser" duration-ms="123388" started-at="2021-05-17T14:46:28 IST" finished-at="2021-05-17T14:48:31 IST">
+        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:B2BApplication.Loginandsearch@15d0c81b]" name="Openbrowser" duration-ms="162989" started-at="2021-05-17T15:18:45 IST" finished-at="2021-05-17T15:21:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Openbrowser -->
-        <test-method status="PASS" signature="Usenameandpassword()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="Usenameandpassword" duration-ms="615" started-at="2021-05-17T14:48:31 IST" finished-at="2021-05-17T14:48:32 IST">
+        <test-method status="PASS" signature="Usenameandpassword()[pri:0, instance:B2BApplication.Loginandsearch@15d0c81b]" name="Usenameandpassword" duration-ms="314" started-at="2021-05-17T15:21:28 IST" finished-at="2021-05-17T15:21:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Usenameandpassword -->
-        <test-method status="PASS" signature="loginbutton()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="loginbutton" duration-ms="218" started-at="2021-05-17T14:48:32 IST" finished-at="2021-05-17T14:48:32 IST">
+        <test-method status="PASS" signature="loginbutton()[pri:0, instance:B2BApplication.Loginandsearch@15d0c81b]" name="loginbutton" duration-ms="176" started-at="2021-05-17T15:21:28 IST" finished-at="2021-05-17T15:21:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginbutton -->
-        <test-method status="PASS" signature="settings()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="settings" duration-ms="15508" started-at="2021-05-17T14:48:32 IST" finished-at="2021-05-17T14:48:48 IST">
+        <test-method status="PASS" signature="settings()[pri:0, instance:B2BApplication.Loginandsearch@15d0c81b]" name="settings" duration-ms="15157" started-at="2021-05-17T15:21:28 IST" finished-at="2021-05-17T15:21:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- settings -->
-        <test-method status="PASS" signature="close()[pri:0, instance:B2BApplication.Loginandsearch@4e7dc304]" name="close" is-config="true" duration-ms="90" started-at="2021-05-17T14:48:48 IST" finished-at="2021-05-17T14:48:48 IST">
+        <test-method status="PASS" signature="close()[pri:0, instance:B2BApplication.Loginandsearch@15d0c81b]" name="close" is-config="true" duration-ms="79" started-at="2021-05-17T15:21:44 IST" finished-at="2021-05-17T15:21:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
