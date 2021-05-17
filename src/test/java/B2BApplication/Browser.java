@@ -16,7 +16,7 @@ public class Browser {
 	@BeforeSuite
 	public void browser() throws IOException
 	{
-		System.setProperty("webdriver.chrome.driver","/usr/bin/google-chrome");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\Pandiyan\\Documents\\chromedriver.exe");
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--headless");
 		driver = new ChromeDriver(options);
