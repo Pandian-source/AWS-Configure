@@ -5,9 +5,12 @@
     <classes>
       <class name="B2BApplication.Loginandsearch">
         <methods>
+          <include name="Usenameandpassword"/>
           <include name="close"/>
           <include name="settings"/>
           <include name="browser"/>
+          <include name="loginbutton"/>
+          <include name="Openbrowser"/>
         </methods>
       </class> <!-- B2BApplication.Loginandsearch -->
     </classes>
